@@ -3,10 +3,10 @@ This is a very soothing pastel color scheme for AndroidIDE's programmers based o
 
 ## Preview
 • Light Background
-- ![Light Preview](./assets/light-bg.png "Light BG")
+![Light Preview](./assets/light-bg.png "Light BG")
 
 • Dark Background
-- ![Dark Preview](./assets/dark-bg.png "Dark BG")
+![Dark Preview](./assets/dark-bg.png "Dark BG")
 
 ## How To Install?
 First go to AndroidIDE Terminal and then run these commands.
