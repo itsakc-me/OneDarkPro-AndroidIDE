@@ -11,7 +11,7 @@ This is a very soothing pastel color scheme for AndroidIDE's programmers based o
 ## How To Install?
 First go to AndroidIDE Terminal and then run these commands.
 
-• ```pkg i git | y```
+• ```pkg i git -y```
 <br />
 • ```cd $HOME/.androidide/ui/editor/schemes```
 <br />
